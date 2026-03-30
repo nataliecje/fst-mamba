@@ -1,0 +1,28 @@
+# Ignore all dataset and data preparation folders
+/data preparation/
+/dataset/
+/checkpoints/
+/eda/
+/interpretability_outputs/
+mlruns/
+pics/
+__pycache__/
+*.npy
+*.npz
+*.pt
+*.csv
+# Additional large files and folders
+FunctionalMamba/mamba2/assets/ssd_algorithm.png
+checkpoints/trained_models/EMOTION_RL/
+dataset/WM_LR/wm_lr_ts_combined.npy
+dataset/WM_RL/processed/data.pt
+dataset/WM_LR/wm_lr_fc_combined.npy
+dataset/WM_LR/wm_lr_fc_resized.npy
+dataset/WM_RL/wm_rl_fc_combined.npy
+dataset/EMOTION_RL/emotion_rl_fc_combined.npy
+dataset/EMOTION_RL/emotion_rl_fc_combined_clean.npy
+dataset/EMOTION_LR/emotion_lr_fc_combined.npy
+eda/eda_emotion_rl.ipynb
+eda/eda_emotion_lr.ipynb
+eda/eda_wm_lr.ipynb
+pics/framework.png
