@@ -1,9 +1,6 @@
-# Ignore all dataset and data preparation folders
-/data preparation/
+# Ignore all dataset folders
 /dataset/
 /checkpoints/
-/eda/
-/interpretability_outputs/
 mlruns/
 pics/
 __pycache__/
